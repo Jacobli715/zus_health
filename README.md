@@ -31,32 +31,16 @@ Enjoy the simulation and see if the rook makes it!
 
 🧠 Why Python?
 Python was chosen because:
-
-Pygame offers a simple but powerful toolset for building 2D visualizations.
-
-It is intuitive and easy to prototype game logic.
-
-Python’s readability supports clean, structured code for algorithms and movement logic.
-
-While this could be implemented in HTML/CSS/JS, Python provided a more natural workflow for simulation-heavy behavior.
+Python was selected because when I first think of chess, I think of game and when coding a game simulation, the first thing that came to my mind was Pygame. Initially I was going to code this in HTML/CSS/JS but I just wanted to build it in python since it has more relevance and easier to use
 
 ✅ Pros
-The Pygame UI clearly visualizes rook movement and state changes.
-
-The Roll button makes the simulation interactive and turn-based.
-
-Easy to extend with new pieces, rules, animations, or improved UI.
-
-Movement logic, UI, and game state are cleanly separated.
-
-Great educational example combining probability, game loops, and OOP.
+1. The Pygame feature and UI shows how the rock moves
+2. The roll button creates a interaction experience with the user
+3. Easy to add more feature and pieces for future references
 
 ❌ Cons
-UI customization in Pygame is limited compared to full game engines.
-
-Adding many sprites or animations may reduce performance.
-
-Pygame (and Python in general) is slower than languages like C++ for large-scale simulations.
+1. There is limited UI designs and adding more features and sprites could drop the performance
+2. It is not suited for large simulation and is slower than other langauge such as C++
 
 🖼️ Sample Run
 🕹️ Example Rounds
