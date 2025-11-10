@@ -59,20 +59,25 @@ Adding many sprites or animations may reduce performance.
 Pygame (and Python in general) is slower than languages like C++ for large-scale simulations.
 
 🖼️ Sample Run
-Main Board
-<p align="center"> <img width="300" height="300" src="https://github.com/user-attachments/assets/03ec513b-fb8d-4c23-b664-0f5a744e2a73" /> </p>
 🕹️ Example Rounds
-Round 1
-<img width="700" height="300" src="https://github.com/user-attachments/assets/e73e216f-b962-4d2b-995c-d6eeb619108a" />
-Round 2
-<img width="700" height="300" src="https://github.com/user-attachments/assets/7fbc6e21-9982-43a8-b0e7-2f019d50a083" />
-Round 3
-<img width="700" height="300" src="https://github.com/user-attachments/assets/99d33349-6e7e-4ef0-98b5-15330ef803b9" />
-Round 4
-<img width="700" height="300" src="https://github.com/user-attachments/assets/164116d4-d5e3-4266-b5d9-e1bbb5a029c4" />
-Round 5
-<img width="700" height="300" src="https://github.com/user-attachments/assets/286b6443-7d1d-4e20-a08c-7a9416c34fc7" />
-Round 6
-<img width="700" height="300" src="https://github.com/user-attachments/assets/3e74204d-7162-4f4f-9cfd-956793d48d55" />
-Round 7
-<img width="700" height="300" src="https://github.com/user-attachments/assets/0c159e68-b89d-4e16-b2cb-326a27a3383c" />
+### **Round 1**
+<img src="https://github.com/user-attachments/assets/e73e216f-b962-4d2b-995c-d6eeb619108a" width="650" />
+
+### **Round 2**
+<img src="https://github.com/user-attachments/assets/7fbc6e21-9982-43a8-b0e7-2f019d50a083" width="650" />
+
+### **Round 3**
+<img src="https://github.com/user-attachments/assets/99d33349-6e7e-4ef0-98b5-15330ef803b9" width="650" />
+
+### **Round 4**
+<img src="https://github.com/user-attachments/assets/164116d4-d5e3-4266-b5d9-e1bbb5a029c4" width="650" />
+
+### **Round 5**
+<img src="https://github.com/user-attachments/assets/286b6443-7d1d-4e20-a08c-7a9416c34fc7" width="650" />
+
+### **Round 6**
+<img src="https://github.com/user-attachments/assets/3e74204d-7162-4f4f-9cfd-956793d48d55" width="650" />
+
+### **Round 7**
+<img src="https://github.com/user-attachments/assets/0c159e68-b89d-4e16-b2cb-326a27a3383c" width="650" />
+
